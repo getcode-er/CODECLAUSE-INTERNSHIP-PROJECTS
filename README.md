@@ -6,13 +6,15 @@
 
 
 
-**Project Overview**
+**Project Overview -**
+
 This project aims to analyze sentiment in movie reviews using Natural Language Processing (NLP) techniques. 
 It involves preprocessing text data, performing feature engineering, and building a sentiment analysis model. 
 The sentiment analysis model is trained to predict the sentiment (positive or negative) expressed in movie reviews.
 
 
-**Project Details**
+**Project Details -**
+
 *Aim:* Apply K-Means clustering to segment customers based on their purchase behavior.
 
 *Description:* Utilize NLP techniques to preprocess text data and build a sentiment analysis model for movie reviews.
